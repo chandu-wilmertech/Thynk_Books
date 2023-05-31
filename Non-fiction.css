@@ -1,0 +1,30 @@
+.card-body {
+  height: 160px;
+  width: 280px;
+}
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+.my-2 {
+  text-align: center;
+}
+.border {
+  border: 2px solid black;
+  border-radius: 5%;
+}
+#site-footer .subscribe-newsletter {
+  background: #ff6600;
+  padding: 10px;
+  margin: 10px;
+}
+
+/* #site-footer.subscribe-newsletter {
+  background: #ff6600;
+
+  padding: 30px;
+} */

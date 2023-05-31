@@ -1,0 +1,22 @@
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
+.form-floating {
+  width: 25%;
+  left: 510px;
+}
+#site-footer .subscribe-newsletter {
+  background: #ff6600;
+  padding: 10px;
+  margin: 10px;
+}

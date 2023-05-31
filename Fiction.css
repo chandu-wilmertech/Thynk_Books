@@ -1,0 +1,37 @@
+/* .container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+} */
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+p {
+  font-size: 16px;
+}
+
+/* .card {
+  width: "50px";
+  height: "250px";
+} */
+.card-body {
+  height: 160px;
+  width: 280px;
+}
+#site-footer .subscribe-newsletter {
+  background: #ff6600;
+  padding: 10px;
+  margin: 10px;
+}
+/* img {
+  margin-left: 100px;
+  padding-left: 200px;
+} */

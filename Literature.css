@@ -1,0 +1,11 @@
+#site-footer .subscribe-newsletter {
+  background: #ff6600;
+  padding: 10px;
+  margin: 10px;
+}
+.container-fluid {
+  justify-content: center;
+}
+#site-footer {
+  align-items: center;
+}

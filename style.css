@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.custom-width {
+  width: 150%;
+}
+/* .container {
+  height: 450px;
+  width: 300px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row; */
+/* grid-template-columns: repeat(3, 300px);
+  grid-template-rows: 450px;
+  justify-content: center; */
+/* } */
+
+/* .card-group .card {
+  width: 250px;
+  height: 350px;
+} */
+
+/* .card button {
+  text-align: center;
+} */
+
+/* .card-body h5 {
+  text-align: center;
+} */
+
+.card-body {
+  height: 160px;
+}
+
+.card {
+  border: 2px solid black;
+  border-radius: 5px;
+}
+#site-footer .subscribe-newsletter {
+  background: #ff6600;
+  padding: 10px;
+  margin: 10px;
+}
